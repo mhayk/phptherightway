@@ -20,3 +20,7 @@
 ## Install squizlabs/php_codesniffer
 
 - ```$ composer require squizlabs/php_codesniffer --dev```
+
+## Using squizlabs/php_codesniffer
+
+- ```$ vendor/bin/phpcs src --standard=PSR2```
