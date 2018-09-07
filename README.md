@@ -7,3 +7,8 @@
 ## Creating composer.json
 
 - ```$ composer init```
+
+## Composer commands
+
+- ```$ composer install```
+- ```$ composer dump```
