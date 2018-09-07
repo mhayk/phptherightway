@@ -12,3 +12,11 @@
 
 - ```$ composer install```
 - ```$ composer dump```
+
+## Installing illuminate/support
+
+- ```$ composer require illuminate/support```
+
+## Install squizlabs/php_codesniffer
+
+- ```$ composer require squizlabs/php_codesniffer --dev```
